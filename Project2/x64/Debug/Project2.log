@@ -1,0 +1,7 @@
+﻿  Nim.cpp
+C:\Users\dalli\OneDrive\Desktop\CS 215 UKY\Project2\Nim.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dalli\OneDrive\Desktop\CS 215 UKY\Project2\Nim.cpp(52,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\dalli\OneDrive\Desktop\CS 215 UKY\Project2\Nim.cpp(62,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project2.cpp
+  Generating Code...
+  Project2.vcxproj -> C:\Users\dalli\OneDrive\Desktop\CS 215 UKY\Project2\x64\Debug\Project2.exe
